@@ -1,7 +1,7 @@
 ## Say less .
 
 # 💫 About Me:
-Currently debugging a feature that was working… until I showed it to someone 🐞  <br/><br>What I love: anything that feels like gym, food, or F1 — fast, heavy, and addictive 🏋️‍♂️🏎️ <br/> <br>Tech I use: whatever gets the job done 🔧 (and yes, it's all in the repo 📂)  <br/><br>About me: [LinkedIn](www.linkedin.com/in/pmish04) — stalk, stop being lazy 👀 <br/><br><br><br>Let’s build something that’s (slightly) less buggy 🚫
+Currently debugging a feature that was working… until I showed it to someone 🐞  <br/><br>What I love: anything that feels like gym, food, or F1 — fast, heavy, and addictive 🏋️‍♂️🏎️ <br/> <br>Tech I use: whatever gets the job done 🔧 (and yes, it's all in the repo 📂)  <br/><br>About me: www.linkedin.com/in/pmish04 — stalk, stop being lazy 👀 <br/><br><br><br>Let’s build something that’s (slightly) less buggy 🚫
 
 
 # 💻 Tech Stack:
