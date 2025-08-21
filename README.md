@@ -12,3 +12,8 @@ Currently debugging a feature that was workingâ€¦ until I showed it to someone ð
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princ3mish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align = "center">
+
+![snake gif](https://github.com/Princ3mish/Princ3mish/blob/output/github-snake-dark.svg)
+</div>
